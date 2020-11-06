@@ -8,23 +8,23 @@ substantially reduced.
 
 Video:
 
-![](https://github.com/Raahul46/Sports-Activity-Recognition/blob/main/Images/Basketball.gif)
+![](https://github.com/Janani216/Sports-Activity-Estimation-/blob/main/Basketball.gif)
 
 
 Optical Flow Image:
 
 <p align="left">
-  <img width="320" height="240" src="https://github.com/Raahul46/Sports-Activity-Recognition/blob/main/Images/download.png">
+  <img width="320" height="240" src="https://github.com/Janani216/Sports-Activity-Estimation-/blob/main/download.png">
 </p>
 
 # Train Accuracy: 87% 
 <p align="left">
-  <img width="371" height="100" src="https://github.com/Raahul46/Sports-Activity-Recognition/blob/main/Images/accuracy.JPG">
+  <img width="371" height="100" src="https://github.com/Janani216/Sports-Activity-Estimation-/blob/main/accuracy.JPG">
 </p>
 
 # Train Loss Curve
 <p align="left">
-  <img width="372" height="248" src="https://github.com/Raahul46/Sports-Activity-Recognition/blob/main/Images/Loss%20epoch.png">
+  <img width="372" height="248" src="https://github.com/Janani216/Sports-Activity-Estimation-/blob/main/Loss%20epoch.png">
 </p>
 
 
